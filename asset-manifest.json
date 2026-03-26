@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Payroll-Comparison-Tool/static/css/main.a9041707.css",
+    "main.js": "/Payroll-Comparison-Tool/static/js/main.d2e5e896.js",
+    "static/js/453.5851511b.chunk.js": "/Payroll-Comparison-Tool/static/js/453.5851511b.chunk.js",
+    "index.html": "/Payroll-Comparison-Tool/index.html",
+    "main.a9041707.css.map": "/Payroll-Comparison-Tool/static/css/main.a9041707.css.map",
+    "main.d2e5e896.js.map": "/Payroll-Comparison-Tool/static/js/main.d2e5e896.js.map",
+    "453.5851511b.chunk.js.map": "/Payroll-Comparison-Tool/static/js/453.5851511b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a9041707.css",
+    "static/js/main.d2e5e896.js"
+  ]
+}
